@@ -9,7 +9,7 @@ Our main character Foxy is responsible for the safety of the forest. A soldier (
 
 ![Screenshot_4](https://user-images.githubusercontent.com/130579265/235553318-2f2248dc-3151-4b9f-9083-af62a6bb95a5.png)
 
-![Screenshot_10](https://user-images.githubusercontent.com/130579265/235553401-89a21faf-b25d-4cc5-b3a2-55a419e61ec3.png)
+
 
 
 Controls:
