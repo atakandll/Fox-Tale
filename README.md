@@ -5,6 +5,9 @@
 STORY:
 Our main character Foxy is responsible for the safety of the forest. A soldier (the boss in the game)  who comes to the forest uses the animals of the forest (frogs and eagles in the game)  and damages the precious gems of the forest.
 
+![Screenshot_8](https://user-images.githubusercontent.com/130579265/235553503-c102bdd9-1529-4ac5-8ac8-8596ef239495.png)
+
+
 ![Screenshot_3](https://user-images.githubusercontent.com/130579265/235553295-06b55afc-6d3b-4351-a04b-0c0f639a9c0b.png)
 
 ![Screenshot_4](https://user-images.githubusercontent.com/130579265/235553318-2f2248dc-3151-4b9f-9083-af62a6bb95a5.png)
